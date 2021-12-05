@@ -10,6 +10,11 @@
      }
  }
 ```
+
+Hi, I'm currently a Computer Science student doing the speciality of Inteligent and Advanced Systems. 
+My objective is to get to fully understand how Inteligent Machines work and be able to work with them to develop
+a better all around place for all us. Basically do my small part in this big world.
+But since I love coding, I might get off path and do some extra projects here and there.
   
 <h4>Programming Languages</h4>
 <p>
