@@ -53,5 +53,4 @@ But since I love coding, I might get off path and do some extra projects here an
 </table>
 
 
-#### 🎧 I love music! | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
+#### 🎧 I love music! | Spotify Playing All the Time.
